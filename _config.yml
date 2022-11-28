@@ -1,5 +1,5 @@
 title: "Joshua K. Lee"
-author: "Blog Author"
+author: "Joshua Lee"
 description: "Georgia Institute of Technology"
 permalink: /:title/
 lang: "en"
@@ -20,9 +20,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: linkedin, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:jlee3855@gatech.edu"}
+  - {title: Github, icon: github, url: "https://github.com/jkunhee12/"}
+  - {title: Subscribe, icon: linkedin, url: "https://www.linkedin.com/in/joshua-lee-932287222/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
