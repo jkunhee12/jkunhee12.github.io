@@ -1,5 +1,5 @@
 ---
-title:  "Markdown examples"
+title:  "BattleBot: Waluigi (WIP)"
 layout: post
 ---
 
