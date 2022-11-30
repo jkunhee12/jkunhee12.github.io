@@ -6,7 +6,7 @@ layout: post
 Arduino Morse Transmitter
    For a beginner Arduino-based project, I decided to make a morse code transmitter/translator that would take a string input of letters and numbers in the Arduino IDE serial monitor and translate the text into morse code. This project’s main purpose was to apply what I’ve learned on coding in C++ and apply it to an embedded system such as an Arduino microcontroller. It was an opportunity to apply my coding knowledge while introducing myself to an Arduino Circuit.
 
-![results](/assets/20221129_030118.png)
+![results](/assets/Screenshot_20221129_030118.png)
 
    Initial intent aside, an encoded message transmitter is both fun and useful in its own ways. Morse code was a famous method of some of the first long distance communication, and its rich history has shown its uses in early radio communication as well as secret messages during war. The code itself was relatively simple, hence its popularity: characters from the english alphabet and numbers zero through nine would each be represented by a unique permutation of dots and dashes. These dots and dashes are then relayed over long distances by radio and similar signal technology to a receiver that will typically hear or see some form of said dots and dashes. Its widespread use has created a few variants, however, so I decided to go with the international code for the best flexibility. 
    
