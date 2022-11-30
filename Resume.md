@@ -4,4 +4,5 @@ permalink: "/resume/"
 layout: page
 ---
 
-{%include embed.html file: "Joshua Lee ECE Resume.pdf" %}
+![Joshua Lee Resume](/assets/Joshua Lee ECE Resume.jpg)
+![Download here](./Joshua Lee ECE Resume.pdf)
