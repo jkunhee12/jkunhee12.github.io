@@ -3,7 +3,7 @@ title: "Arduino Morse Code Transmitter"
 layout: post
 ---
 
-Arduino Morse Transmitter
+
    For a beginner Arduino-based project, I decided to make a morse code transmitter/translator that would take a string input of letters and numbers in the Arduino IDE serial monitor and translate the text into morse code. This project’s main purpose was to apply what I’ve learned on coding in C++ and apply it to an embedded system such as an Arduino microcontroller. It was an opportunity to apply my coding knowledge while introducing myself to an Arduino Circuit.
 
 ![results](/assets/Screenshot_20221129_030118.png)
